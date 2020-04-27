@@ -1,4 +1,4 @@
 ## Erik J.J. Post Consulting
 
-[link](http://www.erikjjpost.nl)
+[link](http://www.erikjjpost.nl/index.html)
 
