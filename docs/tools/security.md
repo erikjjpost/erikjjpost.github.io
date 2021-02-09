@@ -45,9 +45,9 @@ In de loop der tijd kom je veel interessant "spul" tegen wat je wilt bewaren. Er
 
 | Description                           |  Link                                                                                 |
 | :-------------------------------------| :-------------------------------------------------------------------------------------|
-| Excellent collection of sorted links  |  https://github.com/brampat/security                                                  |
-| Open source security controls         |  http://www.eventid.net/docs/open_source_security_controls.asp                        |
-| Pen testing tools                     |  https://github.com/enaqx/awesome-pentest                                             |
-| Toolswatch.org                        |  http://www.toolswatch.org/                                                           |
+| Excellent collection of sorted links  |  <https://github.com/brampat/security>                                                  |
+| Open source security controls         |  <http://www.eventid.net/docs/open_source_security_controls.asp>                        |
+| Pen testing tools                     |  <https://github.com/enaqx/awesome-pentest>                                             |
+| Toolswatch.org                        |  <http://www.toolswatch.org/>                                                           |
 
 
