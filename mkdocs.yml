@@ -1,0 +1,13 @@
+site_name: Erik J.J. Post Consulting
+repo_url: https://github.com/erikjjpost
+theme: material
+features:
+    - navigation.instant
+icon:
+    logo: assets/logo_nieuw_transp.png
+highlightjs: true
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+markdown_extensions:
+  - attr_list

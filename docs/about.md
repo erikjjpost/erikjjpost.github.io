@@ -1,0 +1,8 @@
+<p>De complexiteit van informatiebeveiliging zit vooral in de hoeveelheid werk.<p />
+<p>Het is belangrijk dat u het oog op de bal houdt. Dus de juiste prioriteiten stellen op basis van gewogen risico's, zorgen dat hier actie aan wordt verbonden en dat er resultaten worden geboekt.<p /> Het stellen van deze prioriteiten en het afwegen van het business belang moet gedaan worden binnen toepasselijke technische en organisatorische kaders. Om dit op niveau te kunnen doen is een goede mix nodig van technische en softskills.
+
+<p>Succesvolle implementatie van beleid staat of valt bij hoe het beleid wordt nageleefd. Ik help graag bij het vinden van de juiste verhouding tussen  mensen, middelen en procedures om tot een succesvol informatiebeveiligingsprogramma te komen.<p />
+
+Naast mijn werkzaamheden als security consultant ben ik bestuurslid van <a href="https://stichtingempoweryourself.com/"> Stichting Empower Yourself </a> (SEY).
+SEY heeft als doelstelling mensen die om diverse redenen buiten de boot vallen in de arbeidsmarkt te helpen weer op de rit te komen. <br />
+Door mijn werkzaamheden binnen de stichting hoop ik een bijdrage te leveren aan het verbeteren van de werkgelegenheid in de regio. En daarmee te helpen om mensen een kans te geven die dit nu om diverse redenen niet krijgen. Inclusiviteit en acceptatie heb ik dan ook hoog in het vaandel staan. Mocht u vragen hebben over mijn werkzaamheden voor de stichting, neem dan vooral even contact met me op.
